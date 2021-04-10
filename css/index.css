@@ -37,3 +37,9 @@ div {
 .form_container{
     background-color:white;
 }
+.st-container {
+    display: inline-flex !important;
+}
+.vc_col {
+    display: inline-flex;
+}
